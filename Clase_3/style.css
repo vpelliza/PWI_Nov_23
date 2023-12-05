@@ -1,0 +1,73 @@
+/*codigo en CSS*/
+
+body{
+    background-color: pink;
+}
+
+h1{
+    background-color: rgb(90, 119, 58);
+    color: aliceblue;
+    height: 10vh; 
+    margin: 0;
+}
+p{
+    color: bisque;
+    margin: 80px;
+    margin-bottom: 22px;
+    margin-left: 30px;
+}
+
+button{
+    background-color: #9bb6e1;
+    padding-left: 30px;
+}
+
+a{
+    border-style: dotted;
+    border-color:rgba(10, 80, 300, 0.5);
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h2{
+    color: darkgray;
+    margin-bottom: 20px;
+}
+
+.texto{
+    color: antiquewhite!important;
+    background-color: rgba(10, 80, 300, 0.5);
+}
+
+.subtitulo1{
+    height: 50px;
+}
+
+#tituloh2{
+    color: darksalmon;
+}
+
+.tarjeta{
+    width: 800px;
+    height: 50px;
+    background-color: blanchedalmond;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+
+#botonParticular{
+    color: blanchedalmond;
+}
+
+#resaltar{
+    color:darkslateblue;
+    background-color: #9bb6e1;
+
+}
+#texto-tarjeta{
+    width: 50%;
+    height: 20%;
+    background-color: aliceblue;
+}
